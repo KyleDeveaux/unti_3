@@ -24,9 +24,10 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+![2022-09-22 21-02-27](https://user-images.githubusercontent.com/81199017/192352713-f99e055b-f6cb-42d2-9894-1440226ade1e.gif)
 
 
-https://user-images.githubusercontent.com/81199017/192043337-e37efbbc-92e1-4dab-8e2c-a1b6f6aa83c0.mp4
+
 
 
 
